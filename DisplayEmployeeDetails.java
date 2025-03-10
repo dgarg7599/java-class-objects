@@ -34,12 +34,15 @@ public class DisplayEmployeeDetails {
 
 // ------- Sample Input and Output------
 /*
+Input:
 Enter the name of the employee:
 Amit Khurana
 Enter the ID of the employee:
 1250
 Enter the salary of the employee:
 50000
+
+Output:
 Name: Amit Khurana
 Id: 1250
 Salary: 50000.0
